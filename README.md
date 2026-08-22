@@ -51,4 +51,4 @@ The dashboard provides insights into sales performance across different regions,
 
 ## Author
 
-Deepti Sharma
+Priya Jha
